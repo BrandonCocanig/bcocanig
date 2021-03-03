@@ -17,5 +17,5 @@
 #  \______________________________/
 #added 3/2/2021
 
-User-agent: *
-Disallow: /
+#User-agent: *
+#Disallow: /
